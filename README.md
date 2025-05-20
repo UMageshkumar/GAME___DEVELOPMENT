@@ -1,4 +1,4 @@
-# EX 6 : Two-Dimensional Transformations
+# EX 6 : Two-Dimensional cllipping
 ## NAME:MAGESHKUMAR U
 ## REGNO:212224240085
 
